@@ -1,0 +1,36 @@
+header{
+     text-align: center;
+     border: red 2px;
+}
+
+nav{
+    background-color: rgb(33, 194, 145);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.links{
+    color: black;
+    text-decoration: none;
+    font-size: 16pt;
+    text-transform: capitalize;
+}
+section{
+    font-family: fantasy;
+    font-size: 30px;
+    align-content: center;
+}
+
+#cod{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+img{
+    height: 200px;
+    width: 1400px;
+    ]
+}
